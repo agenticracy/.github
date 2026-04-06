@@ -1,4 +1,4 @@
-# Agenticracy
+# Agenticracy™
 
 **Agenticracy is an open standard for responsible human–AI co‑working.**
 
