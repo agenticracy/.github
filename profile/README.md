@@ -1,28 +1,45 @@
 # Agenticracy™
+### The Open Global PsychoTechnoSocial Contract for Responsible Human-AI Co-Working
 
-**Agenticracy is an open standard for responsible human–AI co‑working.**
+AI agents are being deployed into human organisations at scale.
+No shared, measurable contract defines the conditions under which that is legitimate.
 
-It is built on six pillars:
+**Agenticracy is that contract.**
 
-- Economic Accountability  
-- Social Fairness  
-- Psychological Safety  
-- IP & Cognition Ownership  
-- Ecological Sustainability  
-- Meaningful & Responsible Use  
+---
 
-Agenticracy defines how organisations adopt and operationalise these pillars across their AI agents, tools, and workflows.
+## Seven Pillars
 
-## Repositories
+| Pillar | The Question It Answers |
+|---|---|
+| Economic Accountability | Does AI deployment augment or displace humans without oversight? |
+| Social Fairness | Does it produce, amplify, or reduce biased outcomes? |
+| Psychological Safety | Does it protect the mental wellbeing of those it affects? |
+| IP & Cognition Ownership | Does it respect who owns the ideas it processes? |
+| Ecological Sustainability | Does it measure and reduce its environmental cost? |
+| Meaningful & Responsible Use | Does it benefit people, or just optimise throughput? |
+| Deployer Accountability | Does the deployer accept responsibility for intended and unintended consequences? |
 
-- `agenticracy-skill` – canonical skill file for implementing the Standard in agentic systems (LLMs, orchestration tools, and harnesses).
-- `whitepaper-2026` – reference paper with the NHS case study and formal definition of the six pillars.
-- `examples-*` – implementation examples for popular agent runtimes (OpenAI, Anthropic, LangChain, AutoGen, etc).
+---
 
-## Links
+## The Three Instruments
 
-- Website: https://agenticracy.ai  
-- Implementation: https://workability.ai  
-- Email: adopt@agenticracy.ai
-- X: https://x.com/agenticracy  
-- YouTube: https://www.youtube.com/@agenticracy
+| Instrument | What It Does | Where |
+|---|---|---|
+| **Agenticracy Standard** | Defines the seven pillars — free, open, CC BY-NC-SA | agenticracy.ai |
+| **Workability** | Training, certification and implementation | workability.ai |
+| **Slopometry** | Measures output quality against the pillars | slopometry.ai |
+
+---
+
+## Start in 60 Seconds
+
+```bash
+curl -O https://raw.githubusercontent.com/agenticracy/agenticracy-skill/main/agenticracy-skill.md
+```
+
+→ Become a signatory: **agenticracy.ai/adopt**
+→ Co-author the whitepaper: adopt@agenticracy.ai
+→ Support the commons: opencollective.com/agenticracy
+
+*Built by [@psylligent](https://github.com/psylligent) · London · April 2026*
