@@ -1,14 +1,11 @@
 # Agenticracy
+⚠️ Experimental Feature - Work in Progress This folder contains experimental features and tools that are currently under active development. 
+⚠️ These features are subject to change and may be further developed in future releases. Use with caution and expect ongoing improvements.
 
 > The open Standard for governing the structural and psychodynamic integrity of mixed human-AI systems.
 
 **Author / Originator:** Vladut-Mihai Iorga
 **ORCID:** https://orcid.org/0000-0001-8705-1326
-**Affiliation:** Director, [psylligent ltd](https://find-and-update.company-information.service.gov.uk/company/13093346) (UK Companies House no. 13093346)
-**Trademark filings (UK IPO):**
-- UK00004369189 — *agenticracy*
-- UK00004377660 — *slopometry / slopometric / sloppometry / sloppometric*
-- UK00004377674 — *workability.ai / ai.workability*
 
 ## Companion paper
 
