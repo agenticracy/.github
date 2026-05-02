@@ -1,8 +1,8 @@
 # Agenticracy
-⚠️ Experimental Feature - Work in Progress This folder contains experimental features and tools that are currently under active development. 
-⚠️ These features are subject to change and may be further developed in future releases. Use with caution and expect ongoing improvements.
+>⚠️ Experimental Feature - Work in Progress This folder contains experimental features and tools that are currently under active development.
+>⚠️ These features are subject to change and may be further developed in future releases. Use with caution and expect ongoing improvements.
 
-> The open Standard for governing the structural and psychodynamic integrity of mixed human-AI systems.
+ **The open Standard for governing the structural and psychodynamic integrity of mixed human-AI systems.**
 
 **Author / Originator:** Vladut-Mihai Iorga
 **ORCID:** https://orcid.org/0000-0001-8705-1326
